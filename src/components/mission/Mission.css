@@ -17,6 +17,7 @@
 .mission .content {
     position: absolute;
     top: 30%;
+    width: 50%;
 }
 
 .mission h1 {
@@ -37,7 +38,6 @@
     }
 
     .mission p {
-        color: #f8f8f8;
         font-size: 14px;
     }
 

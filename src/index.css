@@ -42,13 +42,13 @@ a:hover {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 24px;
   line-height: 1.4;
   font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 25px;
   font-family: 'Roboto', sans-serif;
   color: var(--primary-color);
 
@@ -91,11 +91,11 @@ span {
 
 @media screen and (max-width: 940px) {
   h1 {
-    font-size: 3rem;
+    font-size: 20px;
   }
 
-  h2 {
-    font-size: 2.5rem;
+  p {
+    font-size: 14px;
   }
 }
 

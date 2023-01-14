@@ -23,6 +23,7 @@
 .treatment .content {
     position: absolute;
     top: 30%;
+    width: 50%;
 }
 
 .treatment h1 {

@@ -45,7 +45,6 @@ const PhpSection = () => {
 {/* SECTION 2 */}
 
 <div className='wrap'>
-
 <Fade left>
     <div className="box">
         <img src={PhpSection2} width="600px" height="380px" alt="Palm Springs Rehab Logo" loading="lazy" />

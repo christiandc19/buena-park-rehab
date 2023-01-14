@@ -21,6 +21,7 @@ const IopSection = () => {
         If the patient has a strong, supportive family and group of friends/peers, they will be able to undergo care with us, but also be able to live at home. </p>
         <br />
         <h1 className='header'>WHAT TO EXPECT THROUGHOUT THE PROGRAM</h1>
+        <br/>
         <p>Considered our mid-tier intensive care, the program consists of 3 hours of clinical services 3-5 days per week. Patients also participate in group therapy sessions (2 per day) with any additional sessions available if deemed necessary. We also offer several other therapeutic options, such as:</p>
         <br />
         <ul>
