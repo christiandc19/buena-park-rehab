@@ -1,6 +1,5 @@
 import React from "react";
 import Fade from 'react-reveal/Fade';
-import './About.css'
 import ContactForm from "../contact/ContactForm";
 
 
@@ -9,17 +8,17 @@ const About = () => {
 
     return (
             <>
-            <div className='about'>
+            <div className='about main-menu'>
                     <div className="container">
-                        <div className="content">
+                        <div className="main-menu-content">
                             <Fade top>
                                 <h1>WHO WE ARE</h1>
                             </Fade>
                         </div>
                     </div>
             </div>
-
-                                <div className="aboutUsContainer">
+                                            {/* aboutUsContainer */}
+                                <div className="main-menu-header">
                                     <h1>ABOUT US</h1>
 
                                     <Fade top>
