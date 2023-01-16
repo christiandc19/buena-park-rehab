@@ -89,6 +89,32 @@ span {
   color: var(--primary-color);
 }
 
+
+/* SUBMENU */
+
+.sub__menus__arrows:hover .sub__menus{
+  display: block;
+}
+
+.sub__menus__arrows__full:hover .sub__menus{
+  display: block;
+  z-index: 1000000;
+}
+
+.menu-item .sub__menus  a {
+padding: 7px 0 0px 0;
+margin: 0px 5px;
+}
+
+
+/* MAIN MENU'S HERO SECTION */
+
+
+
+
+
+/* MEDIA QUERIES */
+
 @media screen and (max-width: 940px) {
   h1 {
     font-size: 20px;

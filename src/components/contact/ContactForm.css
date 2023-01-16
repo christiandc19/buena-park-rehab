@@ -8,7 +8,7 @@
 .contactForm-mainContainer:before {
     content: '';
     position: absolute;
-    background: url('../../assets/footer-bg.webp') no-repeat center center/cover;
+    /* background: url('../../assets/footer-bg.webp') no-repeat center center/cover; */
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -40,9 +40,14 @@
 .contact-container form {
     height: 37rem;
     width: 300px;
-    background: url('../../assets/menu-bg.jpg') no-repeat center center/cover;
+    /* background: url('../../assets/menu-bg.jpg') no-repeat center center/cover; */
     border-radius: 1rem;
+    border: 1px solid rgb(255, 255, 255);
 }
+
+form {
+    border: 1px black;
+    }
 
 .email-input {
     height: 10rem;
