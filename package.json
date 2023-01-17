@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "homepage": "https://christiandc19.github.io/buena-park-rehab/",
+  "name": "buena-park-rehab",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
