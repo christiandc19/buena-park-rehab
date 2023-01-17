@@ -49,7 +49,8 @@ const ContactForm = () => {
                         <h1>SEND A MESSAGE</h1>
                         <input className="user-input" type="text" name='name' placeholder='Name' required />
                         <input className="user-input" type="text" name='email' placeholder='Email' required />
-                        <input className="user-input" type="text" name='email' placeholder='Subject' required />
+                        <input className="user-input" type="tel" name='phone' placeholder='Phone' required />
+                        <input className="user-input" type="text" name='subject' placeholder='Subject' required />
                         <textarea className="user-input email-input" name="message" rows="4" placeholder="How can we help?" required ></textarea>
                         <div className="submit-btn">
                             <button type='submit' className="btn-modal btn btn-primary">Send</button>
