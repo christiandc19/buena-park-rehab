@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/buena-park-rehab/static/css/main.99ea1b4e.css",
-    "main.js": "/buena-park-rehab/static/js/main.61daf114.js",
+    "main.css": "/buena-park-rehab/static/css/main.27ddf10f.css",
+    "main.js": "/buena-park-rehab/static/js/main.fc52b394.js",
     "static/media/PhpSection3.webp": "/buena-park-rehab/static/media/PhpSection3.0888edc3800de2cf6329.webp",
     "static/media/PhpSection2.webp": "/buena-park-rehab/static/media/PhpSection2.8d1a38a59afaf147d20c.webp",
     "static/media/IopSection1.webp": "/buena-park-rehab/static/media/IopSection1.efade0228eae4b64f971.webp",
@@ -31,11 +31,11 @@
     "static/media/aetna.png": "/buena-park-rehab/static/media/aetna.ba1c7baa5f90d207ae2b.png",
     "static/media/bluecross.png": "/buena-park-rehab/static/media/bluecross.2f180be7d5ab799101c3.png",
     "index.html": "/buena-park-rehab/index.html",
-    "main.99ea1b4e.css.map": "/buena-park-rehab/static/css/main.99ea1b4e.css.map",
-    "main.61daf114.js.map": "/buena-park-rehab/static/js/main.61daf114.js.map"
+    "main.27ddf10f.css.map": "/buena-park-rehab/static/css/main.27ddf10f.css.map",
+    "main.fc52b394.js.map": "/buena-park-rehab/static/js/main.fc52b394.js.map"
   },
   "entrypoints": [
-    "static/css/main.99ea1b4e.css",
-    "static/js/main.61daf114.js"
+    "static/css/main.27ddf10f.css",
+    "static/js/main.fc52b394.js"
   ]
 }
