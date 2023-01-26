@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/buena-park-rehab/static/css/main.cd516c10.css",
-    "main.js": "/buena-park-rehab/static/js/main.387b98d3.js",
+    "main.css": "/buena-park-rehab/static/css/main.86b50dce.css",
+    "main.js": "/buena-park-rehab/static/js/main.9d05cb72.js",
     "static/media/PhpSection3.jpg": "/buena-park-rehab/static/media/PhpSection3.355a94b26b410c906fef.jpg",
     "static/media/card2.jpg": "/buena-park-rehab/static/media/card2.5e75af6ddb3c5df54242.jpg",
-    "static/media/footer-bg.webp": "/buena-park-rehab/static/media/footer-bg.82fabf297fc0244dc3a5.webp",
     "static/media/submenu-bg.jpg": "/buena-park-rehab/static/media/submenu-bg.d3c2be9a924a5da5d632.jpg",
     "static/media/treatment-1.jpg": "/buena-park-rehab/static/media/treatment-1.9b93aa36872433733c19.jpg",
     "static/media/card3.jpg": "/buena-park-rehab/static/media/card3.dc3c4302916a32425fc1.jpg",
@@ -18,6 +17,7 @@
     "static/media/therapy.jpg": "/buena-park-rehab/static/media/therapy.16ffd31bf0d0f6a6a2d2.jpg",
     "static/media/PhpSection2.jpg": "/buena-park-rehab/static/media/PhpSection2.4ada094a78b3d7789ee2.jpg",
     "static/media/heroLogo.png": "/buena-park-rehab/static/media/heroLogo.6247f72fc0a76aa251c8.png",
+    "static/media/footer-bg.jpg": "/buena-park-rehab/static/media/footer-bg.98f79d7cb2fa9feceb1e.jpg",
     "static/media/staff.jpg": "/buena-park-rehab/static/media/staff.4d703a9340e5ca8aa595.jpg",
     "static/media/OpSection1.jpg": "/buena-park-rehab/static/media/OpSection1.1c0d1281401aac860085.jpg",
     "static/media/employment-assistance.png": "/buena-park-rehab/static/media/employment-assistance.7f74813e0bd051e29517.png",
@@ -32,11 +32,11 @@
     "static/media/aetna.png": "/buena-park-rehab/static/media/aetna.ba1c7baa5f90d207ae2b.png",
     "static/media/bluecross.png": "/buena-park-rehab/static/media/bluecross.2f180be7d5ab799101c3.png",
     "index.html": "/buena-park-rehab/index.html",
-    "main.cd516c10.css.map": "/buena-park-rehab/static/css/main.cd516c10.css.map",
-    "main.387b98d3.js.map": "/buena-park-rehab/static/js/main.387b98d3.js.map"
+    "main.86b50dce.css.map": "/buena-park-rehab/static/css/main.86b50dce.css.map",
+    "main.9d05cb72.js.map": "/buena-park-rehab/static/js/main.9d05cb72.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd516c10.css",
-    "static/js/main.387b98d3.js"
+    "static/css/main.86b50dce.css",
+    "static/js/main.9d05cb72.js"
   ]
 }
