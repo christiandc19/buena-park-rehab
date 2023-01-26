@@ -1,6 +1,6 @@
 .contactForm-mainContainer {
     width: 100%;
-    background: rgba(0, 0, 0, .8);
+    background: rgba(255, 255, 255, 0.8);
     position: relative;
 
 }
@@ -20,7 +20,7 @@
 }
 
 .location p {
-    color: white;
+    color: var(--primary-color);
 }
 
 .contactForm h1 {
@@ -30,7 +30,8 @@
 }
 
 .location h1 {
-    color: white;
+    color: var(--primary-color);
+    text-align: left;
 }
 
 .contactForm .admission {
@@ -38,8 +39,9 @@
 }
 
 .contact-container form {
-    height: 39rem;
+    height: 40rem;
     width: 300px;
+    background: var(--primary-color);
     /* background: url('../../assets/menu-bg.jpg') no-repeat center center/cover; */
     border-radius: 1rem;
     border: 1px solid rgb(255, 255, 255);
@@ -86,8 +88,6 @@ form {
     margin: 2rem;
     display: block;
     padding: 1.2rem;
-    border: 2px solid var(--color-bg-variant);
-    border-radius: 0.5rem;
 }
 
 .email-input {

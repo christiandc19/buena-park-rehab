@@ -68,13 +68,13 @@ const Treatment = () => {
 
 <div className='wrap'>
     
-    <Fade right>
+    <Fade left>
     <div className="box">
         <img src={Service2} width="600px" height="350px" alt="Palm Springs Rehab Logo" loading="lazy" />
     </div>
     </Fade>
 
-    <Fade left>
+    <Fade right>
     <div className="box left">
         <br/>
         <p>

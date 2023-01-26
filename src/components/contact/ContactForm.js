@@ -36,7 +36,7 @@ const ContactForm = () => {
                         {/* <p><AiOutlinePhone /><a href="tel:3234521224"> +1 (323) 452-1224  </a></p><br />  */}
                         {/* <p><AiOutlineMail /> info@domainName.com  </p><br /> */}
                         <p><BsFillPinMapFill /> 515 W. Commonwealth Ave. #215, Fullerton CA 92832 </p><br />
-                        <p className="admission">Please call our admission department or fill out the form if you have any questions.</p>
+                        <p className="admission">Please call our admission department if you have any questions.</p>
                     </div>
 
                     <div className="iframe">
@@ -47,9 +47,9 @@ const ContactForm = () => {
                 <div className="container contact-container">
                     <form ref={form} onSubmit={sendEmail}>
                         <h1>SEND A MESSAGE</h1>
-                        <input className="user-input" type="text" name='name' placeholder='Name' required />
-                        <input className="user-input" type="text" name='email' placeholder='Email' required />
-                        <input className="user-input" type="tel" name='phone' placeholder='Phone' required />
+                        <input className="user-input" type="text" name='name' placeholder='Your Name' required />
+                        <input className="user-input" type="text" name='email' placeholder='Your Email' required />
+                        <input className="user-input" type="tel" name='phone' placeholder='Your Phone' required />
                         <input className="user-input" type="text" name='subject' placeholder='Subject' required />
                         <textarea className="user-input email-input" name="message" rows="4" placeholder="How can we help?" required ></textarea>
                         <div className="submit-btn">

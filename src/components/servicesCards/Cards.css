@@ -1,13 +1,18 @@
-.cards {
+.cards-container {
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
     justify-content: center;
 }
 
-.card-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+.card {
+    height: 400px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
 }
 
 .cards-header {
@@ -17,18 +22,58 @@
     margin: 2rem auto;
 }
 
-
-/* Small Size Devices*/
-@media screen and (max-width:940px) {
-    .cards-header h1 {
-        font-size: 1.5rem;
-        padding: 1rem;
-    }
-
-    .cards-header p {
-        font-size: 14px;
-    }
+.card-image {
+    height: 400px;
+    width: 380px;
+    border-radius: 10px;
+    transition: .5s;
 }
 
+
+.intro {
+    height: 70px;
+    width: 400px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    transition: .5s;
+}
+
+.card-title {
+    margin: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.card-desc {
+    font-size: 14px;
+    margin: 20px;
+    visibility: hidden;
+    opacity: 0;
+    text-align: center;
+    width: 330px;
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.card:hover .intro {
+    height: 180px;
+    background: black;
+}
+
+.card:hover p{
+    visibility: visible;
+    opacity: 1;
+}
+
+.card:hover .card-image {
+    transform: scale(1.1) rotate(-3deg);
+}
 
 
