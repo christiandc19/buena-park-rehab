@@ -34,7 +34,7 @@ const Treatment = () => {
 
         <div className='treatment main-menu'>
             <div className='hero-divider'>
-                <img src={Wave} loading="lazy" repeat-x/>
+                <img src={Wave} loading="lazy" alt='wave divider' repeat-x/>
             </div>
                     <div className="treatment-content">
                         <Fade right>

@@ -50,7 +50,7 @@ const ContactForm = () => {
         <div class="phone details">
           <i class="fas fa-phone-alt"></i>
           <div class="topic">Phone</div><br/>
-          <div class="text-one"><a href="tel:3234195733"> +1 (123) 456-7890</a></div>
+          <div class="text-one"><a href="tel:3234195733"> +1 (323) 576-6689</a></div>
         </div>
 
         <div class="email details">
