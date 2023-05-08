@@ -19,7 +19,7 @@ const Section2 = () => {
 
             <div className='wrapper-content-right'>
                 <h1>What We Do</h1> <br />
-                <h2><i>We always care about your mental health</i></h2> <br />
+                <h2><i>We care about your mental health.</i></h2> <br />
             <p>At Buena Park Rehab, we offer different levels of care based on each individual’s needs. Our programs consist of an intensive outpatient program (IOP) and a more demanding and structured partial hospitalization program (PHP). <br /> <br />You can be confident that our caring and professional staff will recommend the right level of care for you or your loved one.</p> <br />
             <h1>Treatment</h1> <br />
 

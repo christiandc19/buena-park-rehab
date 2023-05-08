@@ -5,7 +5,8 @@ import { Link as LinkRoll } from "react-scroll";
 
 
 import { BiBrain } from 'react-icons/bi';
-
+import { TbPill } from 'react-icons/tb';
+import { MdOutlineWorkOutline } from 'react-icons/md';
 
 const Section1 = () => {
   return (
@@ -23,7 +24,7 @@ const Section1 = () => {
                             <h3><BiBrain /></h3>
                         </div>
                         <div className='title'>
-                            <h1>Mental Health Treatment</h1>
+                            <h1>Mental Disorder Treatment</h1>
                         </div>
                     </div>
 
@@ -44,7 +45,7 @@ const Section1 = () => {
             <div className='section1-box section1-box2'>
                 <div className='section1-flexBox section1-flexItem2'>
                         <div className='section1-icon'>
-                            <h3><BiBrain /></h3>
+                            <h3><TbPill /></h3>
                         </div>
                         <div className='title'>
                             <h1>Substance Addiction Treatment</h1>
@@ -68,7 +69,7 @@ const Section1 = () => {
             <div className='section1-box section1-box3'>
             <div className='section1-flexBox section1-flexItem3'>
                         <div className='section1-icon'>
-                            <h3><BiBrain /></h3>
+                            <h3><MdOutlineWorkOutline /></h3>
                         </div>
                         <div className='title'>
                             <h1>Job Assistance Program</h1>
